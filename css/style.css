@@ -23,27 +23,6 @@ header a:hover {
 	text-decoration:underline;
 }
 
-#products {
-	margin-right:8px;
-	margin-left:8px;
-}
-
-#bell {
-	margin-right:10px;
-	margin-left:8px;
-}
-
-#share {
-	margin-right:10px;
-	margin-left:10px;
-}
-
-#github {
-	border-radius:10px;
-	height: 30px;
-	width: 10px;
-}
-
 div {
 	display:block;
 	margin: auto;
