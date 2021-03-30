@@ -5,7 +5,7 @@ header {
 	
 }
 h1{
-	position:fixed;
+	position: fixed;;
 	left: 40%;
 }
 
@@ -16,10 +16,10 @@ header a:link, a:visited, a:active {
 	margin-right:5px;
 	margin-left:5px;
 	position:relative;
-	top:-10px;
+	top:10px;
 }
 
-header a:hover {
+header:hover {
 	text-decoration:underline;
 }
 
@@ -27,12 +27,12 @@ div {
 	display:block;
 	margin: auto;
 	text-align:center;
-	padding-top: 10%;
 }
 
 .image:hover{
 	margin: 5px;
 	border-radius: 20%;
+	color: pink;
 }
 
 .search {
