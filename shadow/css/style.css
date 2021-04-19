@@ -1,0 +1,64 @@
+h1{
+    font-size: 8rem;
+    text-align: center;
+    height:90vh;
+    line-height:90vh;
+    color: pink;
+    background: #d52e3f; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 900;
+    text-shadow: 5px 5px 0px #62880a,
+                 40px 40px 0px rgb(77, 40, 52),
+                 25px 25px 0px #ef1a0e,
+                 15px 15px 0px #551664,
+                 30px 30px 0px #237a23,
+                 35px 35px 0px #107e6c,
+                 45px 45px 0px #08245f,
+                 0 0 3px #FF0000,
+                 0 0 5px #0000FF;
+                
+
+
+}
+.sub{
+  font-size: 2rem;
+  text-align: center;
+  height:90vh;
+  line-height:90vh;
+  color: pink;
+  background: black; 
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  text-shadow: 5px 5px 0px #62880a,
+               40px 40px 0px rgb(77, 40, 52),
+               25px 25px 0px #ef1a0e,
+               15px 15px 0px #551664;
+               
+               
+
+}
+.sup:hover {
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: yellow;
+    box-shadow: 10px 10px;
+    text-shadow :10px 20px red,
+                 10px 20px #62880a;
+    text-align: center;
+    padding-left: 10px;
+    border-radius: 10px; 
+    display: flex;
+  }
+  .a:hover{
+    width: 300px;
+    height: 100px;
+    padding: 15px;
+    background-color: yellow;
+    box-shadow: 10px 10px;
+    text-shadow :10px -2px 1px #787878,10px 10px 0px #62880a,15px 15px 1px #0000FF,10px 3px 1px #107e6c;
+    text-align: center;
+    padding-left: 10px;
+    border-radius: 10px; 
+    display:flex;
+  }
